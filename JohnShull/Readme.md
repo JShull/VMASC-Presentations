@@ -56,3 +56,23 @@ Below is a list of presentations I have given while I've been working for VMASC.
 * Digital Senses
 * Virtual Reality
 
+## SpringSim 2020 Prototyping for Extended Reality
+
+[Game Engines, open source, and toolkits for modeling and simulation spatial software](SpringSim/JShull_SpringSim_20_Tutorial_XR_M_S.pdf)
+>Description: This was a presentation given at the 2020 Spring Sim Conference. This year due to COVID-19 the conference was converted to a virtual conference with presentations being given over Zoom. The abstract was put in for a small tutorial presentation in which a 50 minute live stream accompanied the abstract. The tutorial walks users through setting up Unity3D with the latest release of the Microsoft Mixed Reality Toolkit.
+
+[Companion Documentation for the Tutorial](SpringSim/JShull_SS2020_ReferenceDocument.pdf)
+
+### People
+
+* [John Shull](JShull@odu.edu)
+* [Beth Cardier](Bethcardier@hotmail.com)
+* [Alex Nielsen](ANielsen@odu.edu)
+
+### Tags
+
+* SpringSim
+* Narrative Modeling
+* Unity
+* MRTK
+* Extended Reality
