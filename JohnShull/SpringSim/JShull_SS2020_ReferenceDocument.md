@@ -2,6 +2,8 @@
 
 This document is to accompany the presentation given by [John Shull](JShull@odu.edu). Please see the below content for a light summary of what was gone over including step by step setup instructions for Unity3d and MRTK.
 
+A Back-up recorded session was captured and has been posted to [YouTube](https://youtu.be/CaLRp9AmjYg).
+
 ## Unity3D Setup
 
 * Download [Unity3d](https://unity3d.com/get-unity/download)
