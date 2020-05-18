@@ -1,17 +1,3 @@
-<style>
-body {
-    font-family: "JetBrains Mono";
-    src: url(../Fonts/JetBrainsMono-Regular.ttf);
-    font-size: 10px;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
 # Spring Sim 2020 XR Tutorial Reference Document
 
 This document is to accompany the presentation given by [John Shull](JShull@odu.edu). Please see the below content for a light summary of what was gone over including step by step setup instructions for Unity3d and MRTK.
