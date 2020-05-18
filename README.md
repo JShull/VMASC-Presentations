@@ -1,6 +1,6 @@
 # VMASC Presentations
 
-Base repository for misc. presentations that people have given throughout VMASC. This is the first repository setup to allow all people who have access to the VMASC Git repository to post their presentations. Please see the section below for formatting guidelines as we are trying to standardize root folder readmes.
+Base repository for some of the public presentations that VMASC people have given. This is the first repository setup to allow all VMASC personnel to freely post their presentations here for others to access. At the moment we just ask that you follow a simple format for readme documentation formatting guidelines.
 
 ## Format Guidelines
 
