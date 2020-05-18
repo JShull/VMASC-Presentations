@@ -1,17 +1,3 @@
-<style>
-body {
-    font-family: "JetBrains Mono";
-    src: url(Fonts/JetBrainsMono-Regular.ttf);
-    font-size: 10px;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
 # John Shull Presentations
 
 Below is a list of presentations I have given while I've been working for VMASC.
